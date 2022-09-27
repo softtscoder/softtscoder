@@ -12,7 +12,7 @@
 
 ## :smile: Software Development is a part of my life and :book: Keep coding forever.
 
-<a href="#"><img align="right" height="250" width="375" alt="" src="./source/back-new.gif"/></a>
+
 
 ## 🛠️ My Favorite Programming Languages
 
@@ -29,6 +29,9 @@
 - Solidity
 - Rust
 - Golang
+
+<a href="#"><img align="right" height="250" width="375" alt="" src="./source/back-new.gif"/></a>
+
 ## 💫 My🌟Main🌟 SKILLS
 
 <p align="center">
