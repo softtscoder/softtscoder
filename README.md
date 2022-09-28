@@ -27,21 +27,6 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 
 <img align="right" height="250" width="375" alt="" src="./source/back-new.gif"/>
 
-<p>
-> Front-End | Back-End Development
-- HTML/CSS3
-- JavaScript
-- TypeScript
-- ReactJS, NextJS
-- Angular, VueJS
-- NodeJS
-- PHP
-- Python
-> Blockchain Development
-- Solidity
-- Rust
-- Golang
-</p>
 ## 💫 My🌟Main🌟 SKILLS
 
 <p align="center">
