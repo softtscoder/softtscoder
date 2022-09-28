@@ -5,20 +5,21 @@
 <meta name="front-end" />
 <meta name="back-end" />
 <meta name="full-stack"/>
+
 <h2 align="center">
     <em>&ensp;Hello </em> <img src="source/Hi.gif" height="37px" width="30px">, <em> I'm Kenneth Mei</em>
     <em> 🚀 Full-Stack JS and Blockchain Developer! </em>
 </h2>
 
 ## :smile: Software Development is a part of my life and :book: Keep coding forever.
-<br>
+
 <h4>
 Creative, Passionate, and Efficient Full-Stack Blockchain developer with 6 years of experience in blockchain and web development. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented Staking Platform, DEX, Bridge, NFT Marketplaces by using Web3 libraries, Solidity and Rust.
 Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
 </h4>
 
 <p align="center">
-  <a href="https://github.com/gyroflaw">
+  <a href="https://github.com/softtscoder">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full-Stack%20Blockchain%20Developer;+6%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45">
   </a>
 </p>
@@ -27,7 +28,7 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 
 <img align="right" height="250" width="350" alt="" src="./source/back-new.gif"/>
 
-## 💫 My🌟Main🌟 SKILLS
+## 💫 TECHNICAL🌟SKILLS
 
 <p align="center">
     <img src="https://img.icons8.com/color/344/html-5.png" alt="html5-github-profile-awesome-beautiful" width="40" height="40"/>
@@ -57,14 +58,12 @@ Have worked in all phases of the project life cycle, using a wide variety of too
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
     <img src="https://www.vectorlogo.zone/logos/amazon/amazon-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio_code-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
     <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
-    <img src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg" alt="firefox-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/>
 </p>
     
-## **👍 Experienced Blockchain Networks**
+## 💫 BLOCKCHAIN 🌟SKILLS
 
 <table>
   <tr>
@@ -113,9 +112,15 @@ Have worked in all phases of the project life cycle, using a wide variety of too
   </tr>
   </table>
 
-![Kenneth's github stats](https://github-readme-stats.vercel.app/api?username=softtscoder&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true&hide_border=true)
+<p align="left">
+    <h3>Kenneth's github stats</h3>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=softtscoder&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true&hide_border=true"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softtscoder&layout=compact&theme=highcontrast&hide_border=true)
+<p align="right">
+    <h3>Kenneth's Top Languages </h3>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softtscoder&layout=compact&theme=highcontrast&hide_border=true"/>
+</p>
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=softtscoder&theme=react-dark)
    
