@@ -5,10 +5,10 @@
 <meta name="front-end" />
 <meta name="back-end" />
 <meta name="full-stack"/>
-<h1 align="left">
+<h2 align="center">
     <em>&ensp;Hello </em> <img src="source/Hi.gif" height="37px" width="30px">, <em> I'm Kenneth Mei</em>
     <em> 🚀 Full-Stack JS and Blockchain Developer! </em>
-</h1>
+</h2>
 
 ## :smile: Software Development is a part of my life and :book: Keep coding forever.
 <br>
@@ -25,7 +25,7 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 
 ## 🛠️ My Favorite Programming Languages
 
-<a href="#"><img align="right" height="250" width="375" alt="" src="./source/back-new.gif"/></a>
+<img align="right" height="250" width="375" alt="" src="./source/back-new.gif"/>
 
 <p>
 > Front-End | Back-End Development
@@ -81,9 +81,8 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 </p>
 
 ![Kenneth's github stats](https://github-readme-stats.vercel.app/api?username=softtscoder&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true&hide_border=true)
-<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softtscoder&layout=compact&theme=highcontrast&hide_border=true)
-<br>
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=softtscoder&theme=react-dark)
    
