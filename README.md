@@ -11,11 +11,23 @@
 </h1>
 
 ## :smile: Software Development is a part of my life and :book: Keep coding forever.
+<br>
+<h4>
+Creative, Passionate, and Efficient Full-Stack Blockchain developer with 6 years of experience in blockchain and web development. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented Staking Platform, DEX, Bridge, NFT Marketplaces by using Web3 libraries, Solidity and Rust.
+Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
+</h4>
 
-
+<p align="center">
+  <a href="https://github.com/gyroflaw">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full-Stack%20Blockchain%20Developer;+6%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45">
+  </a>
+</p>
 
 ## 🛠️ My Favorite Programming Languages
 
+<a href="#"><img align="right" height="250" width="375" alt="" src="./source/back-new.gif"/></a>
+
+<p>
 > Front-End | Back-End Development
 - HTML/CSS3
 - JavaScript
@@ -29,9 +41,7 @@
 - Solidity
 - Rust
 - Golang
-
-<a href="#"><img align="right" height="250" width="375" alt="" src="./source/back-new.gif"/></a>
-
+</p>
 ## 💫 My🌟Main🌟 SKILLS
 
 <p align="center">
