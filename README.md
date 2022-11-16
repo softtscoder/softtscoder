@@ -111,14 +111,3 @@ Have worked in all phases of the project life cycle, using a wide variety of too
     </td>
   </tr>
 </table>
-
-
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=softtscoder&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true&hide_border=true"/>
-
-<img align="right" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softtscoder&layout=compact&theme=highcontrast&hide_border=true"/>
-
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=softtscoder&theme=react-dark)
-   
-<p align="center">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=softtscoder&theme=highcontrast&hide_border=true"/>
-</p>
